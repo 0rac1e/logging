@@ -1,3 +1,3 @@
-module github.com/theartofdevel/logging
+module github.com/0rac1e/logging
 
-go 1.21
+go 1.22
